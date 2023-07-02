@@ -32,7 +32,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=D03D59)&nbsp;
 
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=092E20)&nbsp;
-![Ghost](https://img.shields.io/badge/-Ghost-05122A?style=flat&logo=ghost&logoColor=092E20)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
