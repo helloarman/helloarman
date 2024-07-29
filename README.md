@@ -12,7 +12,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp; Currently working as a Web Developer. \
-🎓&nbsp;I graduated form Stamford University Bangladesh, Dhaka (B.Sc, Computer Science and Engineering, Batch of 2023).\
+🎓&nbsp;I graduated from Stamford University Bangladesh, Dhaka (B.Sc, Computer Science and Engineering, Batch of 2023).\
+🎓&nbsp;Jahangirnagar University (M.Sc, Computer Science and Engineering).\
 ✍️ &nbsp;In my free time, I try to learn new technologies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on any topics!\
 ✉️ &nbsp;You can email me at contact.armanrahman@gmail.com. I'll try to respond as soon as possible!\
