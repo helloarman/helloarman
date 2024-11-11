@@ -17,7 +17,6 @@
 ✍️ &nbsp;In my free time, I try to learn new technologies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on any topics!\
 ✉️ &nbsp;You can email me at contact.armanrahman@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Website](https://armanrahman.info) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -42,4 +41,6 @@
 
 ### 🛠 &nbsp;OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
+
 
